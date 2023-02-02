@@ -22,3 +22,6 @@ I work as a mobile developer in a software engineer company. My favorite part of
 <br />
 
 [![hmtriit github stats](https://github-readme-stats.vercel.app/api?username=hmtriit&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/hmtriit/github-readme-stats)
+  
+## Visitors Count
+<img height="30px" src = "https://profile-counter.glitch.me/hmtriit/count.svg" alt ="Loading">
